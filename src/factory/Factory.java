@@ -1,4 +1,4 @@
-package Factory;
+package factory;
 
 class Person
 {

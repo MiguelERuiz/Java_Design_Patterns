@@ -1,10 +1,10 @@
-package Decorator;
+package decorator;
 
 class Bird
 {
-    public static int age;
+    public int age;
 
-    public static String fly()
+    public String fly()
     {
         return age < 10 ? "flying" : "too old";
     }

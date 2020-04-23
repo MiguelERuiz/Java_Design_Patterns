@@ -1,4 +1,4 @@
-package Adapter;
+package adapter;
 
 class Square
 {

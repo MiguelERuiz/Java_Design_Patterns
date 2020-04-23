@@ -1,4 +1,4 @@
-package ChainOfResponsability;
+package chainOfResponsability;
 
 import java.util.ArrayList;
 import java.util.List;

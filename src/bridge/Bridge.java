@@ -1,4 +1,4 @@
-package Bridge;
+package bridge;
 
 interface Renderer {
   public String whatToRenderAs();
